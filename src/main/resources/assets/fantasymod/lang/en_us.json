@@ -2,5 +2,9 @@
   "item.fantasymod.silver": "Silver Ingot",
   "item.fantasymod.raw_silver": "Raw Silver",
 
+  "block.fantasymod.silver_block": "Block of Silver",
+  "block.fantasymod.silver_ore": "Silver Ore",
+  "block.fantasymod.deepslate_silver_ore": "Deepslate Silver Ore",
+
   "itemGroup.fantasytab": "Silver Fantasy Mod"
 }
