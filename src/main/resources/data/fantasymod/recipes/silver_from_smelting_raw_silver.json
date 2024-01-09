@@ -2,7 +2,7 @@
   "type": "minecraft:smelting",
   "cookingtime": 200,
   "experience": 0.7,
-  "group": "silver",
+  "group": "zircon",
   "ingredient": {
     "item": "fantasymod:raw_silver"
   },
