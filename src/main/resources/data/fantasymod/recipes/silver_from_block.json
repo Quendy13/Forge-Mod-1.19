@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "fantasymod:silver_block"
+    }
+  ],
+  "result": {
+    "item": "fantasymod:silver_block",
+    "count": 9
+  }
+}
